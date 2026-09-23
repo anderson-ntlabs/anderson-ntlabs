@@ -47,6 +47,7 @@ A Turborepo monorepo with four vertical products in active development across 10
 
 ## Awards & Recognition
 
+- **1st place** — 6th INAC Integrity Award, Technology & Innovation category · Instituto Não Aceito Corrupção, 2026
 - **2nd place** — Undergraduate Final Projects Contest (CTDG-SI), SBSI 2026 · SBC, 2026
 - **Finalist (Top 5 nationally)** — SBC Innovation Seal 2026 · SBC, 2026
 
